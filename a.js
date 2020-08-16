@@ -1,2 +1,2 @@
-console.log('BBB');
+console.log('CCC');
 console.log('add as feature-A');
